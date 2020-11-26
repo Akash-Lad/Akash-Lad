@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Profile 👋
 
 - 🔭 I’m currently working on Data-Science Projects
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Data Structures & Algorithms and Web-Development  
 - 👯 I’m looking to collaborate on complete end-to-end Data-Science Project
 - 💬 Ask me about technical aspects involved in a Data-Science project
 - 📫 You can reach me through: [Akash Lad](https://www.linkedin.com/in/akashlad/)
