@@ -2,16 +2,6 @@
 
 # Akash Lad
 
-- 🔭 I’m currently working on Data-Science Projects
-- 🌱 I’m currently learning Data Structures & Algorithms and Web-Development  
-- 👯 I’m looking to collaborate on complete end-to-end Data-Science Project
-- 💬 Ask me about technical aspects involved in a Data-Science project
-- 📫 You can reach me through: [Akash Lad](https://www.linkedin.com/in/akashlad/)
-- ⚡ Fun fact: Technology changes every moment you blink  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akash-Lad&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
-
-
 ## About me 
 I'm a full stack developer. I like to work with React, Firebase, AWS, MongoDB, NodeJS and Python. 
 I'm a open-source development enthusiast, an instructor and a freelancer.
@@ -27,6 +17,15 @@ I'm a open-source development enthusiast, an instructor and a freelancer.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+
+- 🔭 I’m currently working on Data-Science Projects
+- 🌱 I’m currently learning Data Structures & Algorithms and Web-Development  
+- 👯 I’m looking to collaborate on complete end-to-end Data-Science Project
+- 💬 Ask me about technical aspects involved in a Data-Science project
+- 📫 You can reach me through: [Akash Lad](https://www.linkedin.com/in/akashlad/)
+- ⚡ Fun fact: Technology changes every moment you blink  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash-Lad&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 
 
 ### My Github Stats
